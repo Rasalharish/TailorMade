@@ -54,16 +54,6 @@ TailorMade includes a specialized **Vendor Dashboard** where master tailors can 
 
 ---
 
-**6. Setup & Development**
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/tailormade.git
-cd tailormade
-
-# Start the full stack
-docker-compose up --build
-```
 
 ---
 
